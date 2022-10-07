@@ -1,6 +1,6 @@
 # Project - Github History of Scala Programming Language
 
-In this project, I conducted a comprehensive analysis of the Scala language
+In this project, I conducted a comprehensive analysis of the Scala language to map it's development over the years.
 With almost 30,000 commits and a history spanning over ten years, Scala is a mature language, and I had to analyze who has had the most influence on its development and who are the experts.
 
 ## About the Datasets

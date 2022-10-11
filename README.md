@@ -4,7 +4,7 @@ In this project, I conducted a comprehensive analysis of the Scala language to m
 With almost 30,000 commits and a history spanning over ten years, Scala is a mature language, and I had to analyze who has had the most influence on its development and who are the experts.
 
 ## About the Datasets
-About the datasets:
+
 I have used three different datasets (courtesy of Datacamp).
 
 1. **‘pull_files.csv’** contains the files that were modified by each pull request.
